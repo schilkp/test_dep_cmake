@@ -3,6 +3,6 @@
 
 namespace random_lib {
     void RandomFunc() {
-        std::cout << "Random Message 1" << std::endl;
+        std::cout << "Random Message 2" << std::endl;
     }
 }
